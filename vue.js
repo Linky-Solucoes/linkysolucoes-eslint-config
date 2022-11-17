@@ -5,21 +5,8 @@ module.exports = {
     "plugin:vue/vue3-essential",
     "plugin:vue/vue3-strongly-recommended",
     "prettier",
-    "plugin:prettier/recommended",
   ],
   rules: {
-    "prettier/prettier": [
-      "error",
-      {
-        printWidth: 120,
-        tabWidth: 2,
-        singleQuote: true,
-        trailingComma: "all",
-        arrowParens: "always",
-        semi: false,
-        endOfLine: "auto",
-      },
-    ],
     "vue/no-unused-vars": "off",
     "no-undef": 0,
     "vue/multi-word-component-names": 0,
