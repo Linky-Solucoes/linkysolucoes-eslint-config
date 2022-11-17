@@ -1,6 +1,6 @@
 {
   "name": "@linkysolucoes/eslint-config",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "private": false,
   "description": "ESLint configuration used by Linky Soluções.",
   "main": "index.js",
